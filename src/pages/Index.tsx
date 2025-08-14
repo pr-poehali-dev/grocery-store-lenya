@@ -37,7 +37,7 @@ const Index = () => {
         <section className="grid md:grid-cols-2 gap-12 mb-16">
           <div className="flex justify-center">
             <img 
-              src="/img/ecf6da60-3197-4f2f-8e1c-48fda22ddb07.jpg" 
+              src="https://cdn.poehali.dev/files/fa06ea23-5e69-4fd1-9e5f-67f5ceeddb7a.jpg" 
               alt="Лёня"
               className="w-full max-w-md object-cover rounded-lg shadow-sm"
             />
